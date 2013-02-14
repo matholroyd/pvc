@@ -1,4 +1,6 @@
-# PVC
+# (F%#king) Pipes
+
+Because "Pipes" is a better name then PVC. 
 
 Pipe between processes as easily as in the shell
 
